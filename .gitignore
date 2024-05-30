@@ -1,5 +1,6 @@
 # photo storage
 photos/
+outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
