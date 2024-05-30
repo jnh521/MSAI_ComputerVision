@@ -1,6 +1,7 @@
 # photo storage
 photos/
 outputs/
+testing_notebook.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
